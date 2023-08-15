@@ -69,7 +69,7 @@ public class Main {
         /* 9 задание */
         int n = 2;
         for (int m = 1; m<=10; m++) {
-            System.out.println(n + "*" + m + "=" + n * m + "\t");
+            System.out.println(n + "*" + m + "=" + n * m);
             }
     }
 }
